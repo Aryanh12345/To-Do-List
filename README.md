@@ -1,43 +1,38 @@
-# To-Do List App
+# ✅ To-Do List
 
-A simple and user-friendly To-Do List application built with HTML, CSS, and JavaScript.
+A simple and interactive **To-Do List** web application built using **HTML, CSS, and JavaScript**.
 
-## Features
+The application allows users to add, complete, and manage their daily tasks through a clean and simple interface.
 
-* Add new tasks
-* Mark tasks as completed
-* Edit existing tasks
-* Delete tasks
-* Responsive design
-* Lightweight and easy to use
+## 🌐 Live Demo
 
-## Technologies Used
+👉 [Visit To-Do List](https://aryanh12345.github.io/To-Do-List/)
 
-* HTML5
-* CSS3
-* JavaScript (ES6)
+## 🚀 Features
 
-## How to Run
+- ➕ Add new tasks
+- ✅ Mark tasks as completed
+- 🗑️ Delete tasks
+- 📋 Manage daily tasks
+- 💾 Store tasks in the browser
+- ⚡ Fast and lightweight
+- 🎨 Clean and simple interface
+- 📱 Responsive design
+- 💻 Works directly in the browser
 
-1. Clone the repository:
+## 🛠️ Technologies Used
 
-   ```bash
-   git clone <repository-url>
-   ```
-2. Open `index.html` in your browser.
+- **HTML5** – Application structure
+- **CSS3** – Styling and responsive design
+- **JavaScript** – Task management and interactions
+- **Local Storage** – Store tasks in the browser
 
-## Project Objective
+## 📂 Project Structure
 
-This project was created to practice DOM manipulation, event handling, and local storage concepts in JavaScript while building a useful productivity tool.
-
-## Future Improvements
-
-* Task categories
-* Due dates and reminders
-* Dark mode
-* Drag-and-drop task organization
-* Cloud synchronization
-
-## Author
-
-Aryan Hapaliya
+```text
+To-Do-List/
+│
+├── index.html
+├── style.css
+├── script.js
+└── README.md
